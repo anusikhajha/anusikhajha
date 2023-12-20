@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as an HR Recruiter.
 - 🌱 I’m currently learning Data Analytics 📈👩🏻‍💻📊
 - 🧑‍🤝‍🧑 I’m looking to collaborate on Data Visualisation and Analysis
-- 🥅 2023 Goals: Become an expert in making sense out of data
+- 🥅 2024 Goals: Become an expert in making sense out of data
 - 🍔 McDonald's Burger is my favourite food
 
 
