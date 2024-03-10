@@ -7,7 +7,7 @@
 - 🍔 McDonald's Burger is my favourite food
 
 
-[![Profile Description](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+World+👋,+I+am+Anusikha+Mishra+Jha;+Welcome+to+My+Profile!;Always+learning+new+things+;Data+Analysis+enthusiast)](https://github.com/anusikhajha)
+[![Profile Description](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+World+👋,+I+am+Anusikha;+Welcome+to+My+Profile!;Always+learning+new+things+;Data+Analysis+enthusiast)](https://github.com/anusikhajha)
  
 ### ⚡Hiring Me, Here are my skills:
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
