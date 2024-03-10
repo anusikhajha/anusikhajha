@@ -1,7 +1,7 @@
 ### :wave: Hello World! I am [Anusikha] :octocat:
 
-- 🔭 I’m currently working as an HR Recruiter.
 - 🌱 I’m currently learning Data Analytics 📈👩🏻‍💻📊
+- 🔭 I previously worked as an HR Recruiter.
 - 🧑‍🤝‍🧑 I’m looking to collaborate on Data Visualisation and Analysis
 - 🥅 2024 Goals: Become an expert in making sense out of data
 - 🍔 McDonald's Burger is my favourite food
@@ -22,7 +22,7 @@
 
 
 
-[Anusikha Mishra Jha]: https://anusikhajha.github.io
+[Anusikha]: https://anusikhajha.github.io
 [Coding Invaders]: https://codinginvaders.com/
 [website]: https://anusikhajha.github.io
 [linkedin]: https://www.linkedin.com/in/anusikhamishra/
