@@ -1,4 +1,4 @@
-### :wave: Hello World! I am [Anusikha Mishra Jha] :octocat:
+### :wave: Hello World! I am [Anusikha] :octocat:
 
 - 🔭 I’m currently working as an HR Recruiter.
 - 🌱 I’m currently learning Data Analytics 📈👩🏻‍💻📊
