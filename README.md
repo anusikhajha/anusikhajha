@@ -1,6 +1,6 @@
 ### :wave: Hello World! I am [Anusikha] :octocat:
 
-- 🌱 I’m currently learning Data Analytics 📈👩🏻‍💻📊
+- 🌱 I’m currently working as a Data Analyst 📈👩🏻‍💻📊
 - 🔭 I previously worked as an HR Recruiter.
 - 🧑‍🤝‍🧑 I’m looking to collaborate on Data Visualisation and Analysis
 - 🥅 2024 Goals: Become an expert in making sense out of data
@@ -17,13 +17,13 @@
  
 ### :airplane: Professional Journey
 
-- Currently working as an Data Analyst Apprentice at [Coding Invaders] since Aug'23
-- Worked as an HR Professional from Jan 2019 to October 2023
+- Currently working as an Data Analyst at [Ionox] since Mar'23
+- Worked as an HR Professional from Jan 2019 to Mar 2023
 
 
 
 [Anusikha]: https://anusikhajha.github.io
-[Coding Invaders]: https://codinginvaders.com/
+[Ionox]: https://ionoxsoftware.in/
 [website]: https://anusikhajha.github.io
 [linkedin]: https://www.linkedin.com/in/anusikhamishra/
 [instagram]: https://www.instagram.com/anusikha/
