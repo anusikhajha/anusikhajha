@@ -1,7 +1,7 @@
 ### :wave: Hello World! I am [Anusikha] :octocat:
 
 - 🌱 I’m currently working as a Data Analyst 📈👩🏻‍💻📊
-- 🔭 I previously worked as an HR Recruiter.
+- 🔭 I previously worked as an HR Professional.
 - 🧑‍🤝‍🧑 I’m looking to collaborate on Data Visualisation and Analysis
 - 🥅 2024 Goals: Become an expert in making sense out of data
 - 🍔 McDonald's Burger is my favourite food
@@ -17,8 +17,8 @@
  
 ### :airplane: Professional Journey
 
-- Currently working as an Data Analyst at [Detla India] since Oct'22
-- Worked as an HR Professional from Jan 2019 to Mar 2023
+- Currently working as an Data Analyst at [Detla India](https://deltas.co.in) since Oct'22
+- Worked as an HR Professional from Jan 201ida9 to Mar 2022
 
 
 
