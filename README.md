@@ -17,13 +17,13 @@
  
 ### :airplane: Professional Journey
 
-- Currently working as an Data Analyst at [Ionox] since Mar'23
+- Currently working as an Data Analyst at [Detla India] since Oct'22
 - Worked as an HR Professional from Jan 2019 to Mar 2023
 
 
 
 [Anusikha]: https://anusikhajha.github.io
-[Ionox]: https://ionoxsoftware.in/
+[Delta India]: https://deltas.co.in/
 [website]: https://anusikhajha.github.io
 [linkedin]: https://www.linkedin.com/in/anusikhamishra/
 [instagram]: https://www.instagram.com/anusikha/
