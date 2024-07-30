@@ -17,7 +17,7 @@
  
 ### :airplane: Professional Journey
 
-- Currently working as an Data Analyst at [Detla India](https://deltas.co.in) since Oct'22
+- Currently working as an Data Analyst at [Detla India](https://deltas.co.in) since Mar'22
 - Worked as an HR Professional from Jan 2019 to Mar 2022
 
 
